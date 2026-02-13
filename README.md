@@ -1,2 +1,2 @@
 # shadowrocket-config
-refilter config
+Config for ShadowRocket. Use Re-filter.
